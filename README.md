@@ -1,2 +1,14 @@
 # qt-top-resource
-HTML page archive and documentation
+
+页面文件管理仓库
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
